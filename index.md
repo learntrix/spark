@@ -1,7 +1,7 @@
 ## Welcome to Learntrix. Learn Apache Spark here!
 
 
-Here you will learn about apache spark.
+# Here you will learn about apache spark.
 
 `` Here you will not only lean spark, but also become expert in it! ``
 
