@@ -1,8 +1,9 @@
-## Welcome to Learntrix
-## Learn Apache Spark here!
+## Welcome to Learntrix. Learn Apache Spark here!
 
 
 Here you will learn about apache spark.
+
+** Here you will not only lean spark, but also become expert in it!**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
